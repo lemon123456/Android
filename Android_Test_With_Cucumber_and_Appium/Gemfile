@@ -1,0 +1,6 @@
+source 'https://ruby.taobao.org'
+
+ruby '2.2.3'
+
+gem "cucumber"
+gem "appium_lib"
